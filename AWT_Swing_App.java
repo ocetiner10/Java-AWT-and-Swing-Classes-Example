@@ -1,9 +1,3 @@
-/*
-Name : Ozan
-Surname : Çetiner
-ID : 201511012
-Section : 2
-*/
 
 /*
 
